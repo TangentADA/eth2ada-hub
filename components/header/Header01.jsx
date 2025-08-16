@@ -57,7 +57,7 @@ export default function Header01() {
 
   const dexhunterSwap = {
     id: 4,
-    name: "Dexhunter Swap",
+    name: "Swap",
     path: "https://swap.eth2ada.com",
     external: true,
   };
