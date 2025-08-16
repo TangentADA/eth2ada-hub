@@ -198,7 +198,7 @@ export default function Header01() {
                               : ""
                           }
                         >
-                          Ask xAI
+                          Ask AI
                         </span>
                       </button>
                     </a>
@@ -620,7 +620,7 @@ export default function Header01() {
                           : ""
                       }
                     >
-                      Ask xAI
+                      Ask AI
                     </span>
                   </button>
                 </a>
