@@ -186,7 +186,7 @@ export default function Header01() {
                   </Link>
                 </li>
 
-                {/* Ask xAI */}
+                {/* Ask AI */}
                 <li className="group">
                   <Link href="/terminal">
                     <a>
